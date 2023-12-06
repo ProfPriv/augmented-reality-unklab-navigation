@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyProject/Scenes/FirstPage.unity
+    guid: 69f92aa60d9914d419ecf1dc51ac6832
+  - enabled: 1
+    path: Assets/MyProject/Scenes/AboutPage.unity
+    guid: 6a1e34a62665d4700827072d8875f0bb
+  - enabled: 1
+    path: Assets/MyProject/Scenes/SearchPage.unity
+    guid: 381d88a9aa4be4f2db162057843c6a2c
+  - enabled: 1
+    path: Assets/MyProject/Scenes/ApartDosen.unity
+    guid: abc859f318a924502ae6fc752c1da75a
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Bakery.unity
+    guid: 9e01a91e084aa4da18a072e2ac3506cf
+  - enabled: 1
+    path: Assets/MyProject/Scenes/EastHall.unity
+    guid: 5c8ce95b6eef249d99ef1f0e090e85ff
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Maintanance.unity
+    guid: 1d72f62f47d084e4d8a1fded29648194
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Pinus.unity
+    guid: fe8e9f5e91ff149ea96ef34fbd0e04d2
+  - enabled: 1
+    path: Assets/MyProject/Scenes/SC.unity
+    guid: f64365a5e68564000b7a4dacabb766aa
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Asrama/AsAnnex.unity
+    guid: 5d5eb11fcc1644b4da4afff21e5e94bd
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Asrama/AsBougenville.unity
+    guid: 221b5315b5b2d46a2a5d622ac22ee0e8
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Asrama/AsCrystal.unity
+    guid: 1f1f8abd4b85946a0a2e37a8104cabf7
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Asrama/AsEdel.unity
+    guid: c01a23bbd58344651a3e53fe316ede49
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Asrama/AsGen.unity
+    guid: cb8b8621a4c974cde95084e936acf08c
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Asrama/AsGH.unity
+    guid: a1a48c0ef1ba14dca958b9833560a236
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Asrama/AsJasmine.unity
+    guid: a38608a3d0d2848c58e2c25340fda57b
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Chapel/Audit.unity
+    guid: 5d42c862bc7454750b7e1d53f56cf1cd
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Chapel/FWC.unity
+    guid: 74b3c4de92fb74547b7d20ea9c323fe3
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Chapel/PC.unity
+    guid: fe130ec238712429a9d1c5cfb10cd27e
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Chapel/UIC.unity
+    guid: 485bc47a5ca72446e8b28d3fa9279074
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Garden/PG.unity
+    guid: 2967743debca84ad2b50966b71178390
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Garden/SG.unity
+    guid: f49d0d3fc78ac4322934dcc2244720a1
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Gedung/GA.unity
+    guid: 26cbc5903339b41dbb535c417596640b
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Gedung/GK1.unity
+    guid: 4713572c8d8d94e38adfc5d30d417db1
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Gedung/GK2.unity
+    guid: cfb16140c1935453f995b4d64eecf3e2
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Gedung/GK3.unity
+    guid: b484aea2917e345b19eafdd4caa9ba9f
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Parlot/PLC.unity
+    guid: 17dcb9e5f3ed4499ebf01e8d81f067db
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Parlot/PLDS.unity
+    guid: 45edd61fd921c41848eef8c03db9146d
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Parlot/PLGA.unity
+    guid: 3ae22bd830a56491aa3b2f87956e76c6
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Parlot/PLGK1.unity
+    guid: 6096a6f7f0cba4c3ba759fe0a41a6413
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Parlot/PLGK3.unity
+    guid: b3b85729022d548bfa3a074208ffdcc2
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Parlot/PLJ.unity
+    guid: ea55b5bc15a0542d0a0b23aa58cbd160
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Parlot/PLPC.unity
+    guid: a73c0c497b4154554b185b4a761630c1
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah1.unity
+    guid: 6b8cf13c5ab804b92b908250952eebb9
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah2.unity
+    guid: 861b8c1fe5186477abe2e5439c52fceb
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah3.unity
+    guid: 3d21cf88933474909a1a958df35b57c8
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah4.unity
+    guid: 1dbec81c886444f12a9d2ff0220dbd1e
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah5.unity
+    guid: e65a0266b0f6e4bbbae3b472eb922f8d
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah6.unity
+    guid: 1971cd20ae2194dd8a56048d9795fd35
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah7.unity
+    guid: 7b84ebcd7b3ab4ca1914debe5d20fbdc
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah8.unity
+    guid: 2d6c26ca451dd4943888eae9fa4eedbd
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah9.unity
+    guid: 833cd1b70ab164d41a81a703cb05322f
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah10.unity
+    guid: e180dfb53cfea443f8a8b086367ee36a
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah11.unity
+    guid: 914cf4739f68d4b57a8c11d9b860e653
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah12.unity
+    guid: 7c0c32d67043247cca3a23fa24ecbec9
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah13.unity
+    guid: 5a01f34514f39433f92f24c4750d16bb
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah14.unity
+    guid: 9e5077300b15c41128bd77e6fbdb48af
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah15.unity
+    guid: 653fb66622bc2443a851a97988983702
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah16.unity
+    guid: a644c5a3cc8d24ab28deb5f411d8e064
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah17.unity
+    guid: 54654273c9c684bba9d8ddb11b6edbc5
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah18.unity
+    guid: 951627e22d2a74c9db08dd8845d126b2
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah19.unity
+    guid: ecfb4c5f8a7014feb8d92ae4fda3a501
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah20.unity
+    guid: b4fe274da252448eab9bffe7c48eed73
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah21.unity
+    guid: 283661160f21544a9ad4eb3c7de9a929
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah22.unity
+    guid: b5c3811f0c1664080975a7450c991877
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah24.unity
+    guid: 4ba7f6b30ff9049e78c1cc8b4f75bd35
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah25.unity
+    guid: 1b3d5e4a6530b4f87a08c7c64bd96071
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah26.unity
+    guid: 031aa7656a0bc480b82761f79566e5d6
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah27.unity
+    guid: b53fe81a0109e4109a3f8ae73da45925
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah28.unity
+    guid: 7f481ef0f8350472884797a1ca462302
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah29.unity
+    guid: 454f175810d26423ab4853efaa76dce7
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah30.unity
+    guid: f3ad51def854f4dd6baa2d5cb51142c2
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah31.unity
+    guid: 85609a31540ae4ffa8c89ac552ecfda6
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah32.unity
+    guid: 6fc9c5f727722429dadbd8d4b453eabd
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah33.unity
+    guid: a4e56a0dedff742959fdf008f28db969
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah34.unity
+    guid: 64e31701ab89048f6bb5c721dbc47914
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah36.unity
+    guid: 770736115edbf42758f526dbc68289c5
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah37.unity
+    guid: f52d791c008d842b5ad156fca6f64306
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah38.unity
+    guid: 8ca31813b60f4411b860073178f42109
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah39.unity
+    guid: 16ce44043231e4a34beea4490ba76e3d
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah40.unity
+    guid: 28d56c06c8f6b43dba970af68281a186
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah41.unity
+    guid: aa44b304c68584f2ba09461cf745bbb4
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah42.unity
+    guid: e6616ce44c0ce4deda62f52f3b285e58
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah43.unity
+    guid: 2f93bcc2173f448b3af32b96f23abcb3
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah44.unity
+    guid: 5c74d60eee8e542848c689fd0f75a99e
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah45.unity
+    guid: 728b07510f6d347eb9bb476152bad2d3
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah46.unity
+    guid: 5e1800ff2ea2e44e389c2919e4d42af8
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah47.unity
+    guid: f704baf46749a4ca1ad8d28589b623ca
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah48.unity
+    guid: 3f6447e13bd004937bb467ee32297ae3
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah49.unity
+    guid: 61097fd47d60f478cb068f58848602ad
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah50.unity
+    guid: fa41538c2ff4441039a679f46443d32c
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Rumah/Rumah51.unity
+    guid: 0605c8a800b924fe7a4a893fc4f0d143
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Sport/LapSepakBola.unity
+    guid: c5df78b56969e485fbd3e37eb1d67a3f
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Sport/LapTenis.unity
+    guid: 59388347f04ee409fa9e332f1373a6ab
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Sport/LapVoli.unity
+    guid: 2a31cade6885c443083c63fb5a6e5958
+  - enabled: 1
+    path: Assets/MyProject/Scenes/Sport/SH.unity
+    guid: 5db4e6d27cc91420e802b04c9f906961
+  - enabled: 1
+    path: Assets/MyProject/Scenes/UALS/SD.unity
+    guid: e0d46965209d1468eb5d2b3e17b5e877
+  - enabled: 1
+    path: Assets/MyProject/Scenes/UALS/SMA.unity
+    guid: 8985944dc766c47cfabb8cc0a8363334
+  - enabled: 1
+    path: Assets/MyProject/Scenes/UALS/SMP.unity
+    guid: 20efcff8230124f37b1a5b7238493b43
+  - enabled: 1
+    path: Assets/MyProject/Scenes/UALS/TK.unity
+    guid: 933682fb5c2294fb19b56047c89f2c77
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 941884aaa39524c61a3a84adf6a8ad1a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: eece67b60de73400694472ec3365da16, type: 2}
